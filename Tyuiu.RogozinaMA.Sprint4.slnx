@@ -9,7 +9,11 @@
     <Project Path="Tyuiu.RogozinaMA.Sprint4.Task1.V17.Test/Tyuiu.RogozinaMA.Sprint4.Task1.V17.Test.csproj" />
     <Project Path="Tyuiu.RogozinaMA.Sprint4.Task1.V17/Tyuiu.RogozinaMA.Sprint4.Task1.V17.csproj" />
   </Folder>
-  <Folder Name="/Task2/" />
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.RogozinaMA.Sprint4.Task2.V7.Lib/Tyuiu.RogozinaMA.Sprint4.Task2.V7.Lib.csproj" />
+    <Project Path="Tyuiu.RogozinaMA.Sprint4.Task2.V7.Test/Tyuiu.RogozinaMA.Sprint4.Task2.V7.Test.csproj" />
+    <Project Path="Tyuiu.RogozinaMA.Sprint4.Task2.V7/Tyuiu.RogozinaMA.Sprint4.Task2.V7.csproj" />
+  </Folder>
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
