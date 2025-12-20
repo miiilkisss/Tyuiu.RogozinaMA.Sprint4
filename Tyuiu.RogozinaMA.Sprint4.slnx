@@ -24,7 +24,11 @@
     <Project Path="Tyuiu.RogozinaMA.Sprint4.Task4.V13.Test/Tyuiu.RogozinaMA.Sprint4.Task4.V13.Test.csproj" />
     <Project Path="Tyuiu.RogozinaMA.Sprint4.Task4.V13/Tyuiu.RogozinaMA.Sprint4.Task4.V13.csproj" />
   </Folder>
-  <Folder Name="/Task5/" />
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.RogozinaMA.Sprint4.Task5.V13.Lib/Tyuiu.RogozinaMA.Sprint4.Task5.V13.Lib.csproj" />
+    <Project Path="Tyuiu.RogozinaMA.Sprint4.Task5.V13.Test/Tyuiu.RogozinaMA.Sprint4.Task5.V13.Test.csproj" />
+    <Project Path="Tyuiu.RogozinaMA.Sprint4.Task5.V13/Tyuiu.RogozinaMA.Sprint4.Task5.V13.csproj" />
+  </Folder>
   <Folder Name="/Task6/" />
   <Folder Name="/Task7/" />
 </Solution>
